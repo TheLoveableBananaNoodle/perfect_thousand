@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1572549072 source:c:\users\kylej\desktop\perfect_1000_checker\main.cpp
+	<iostream>
+	<cctype>
+	<windows.h>
+	<conio.h>
+	<vector>
+	<cstdlib>
+	<sstream>
+
